@@ -1,4 +1,5 @@
 abc
 line 2 & simple and simple
-line 3 .. somethint..
+<<<<<<< HEAD
+line 3 .. somethint..more..
 line 4
